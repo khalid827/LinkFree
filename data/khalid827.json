@@ -1,0 +1,24 @@
+{
+  "name": "Shaik Abdul Khalid",
+  "type": "personal",
+  "bio": "Recent graduate Excited to learn new technologies",
+  "avatar":"https://github.com/khalid827.png",
+  "links": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/shaik-abdul-khalid-056002209/",
+      "icon": "FaLinkedin"
+    },
+   {
+      "name": "Github",
+      "url": "https://github.com/khalid827",
+      "icon": "FaGithub"
+    },
+   {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/khalidabdul566/",
+      "icon": "FaInstagram"
+    }
+
+  ]
+}
